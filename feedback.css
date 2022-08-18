@@ -1,0 +1,58 @@
+ body {
+            background-image: url(https://p4.wallpaperbetter.com/wallpaper/632/670/403/cool-abstract-background-wallpaper-preview.jpg);
+            text-align: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+form {
+            background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkbeuZvB_mKm_AGEXPDSUlBFi01plInKurS_ewlzcMqZL4cacyBBm4XK_Yr_sRjKexZk4&usqp=CAU) ;
+            max-width: 500px;
+            margin: 50px auto;
+            padding: 30px 20px;
+            box-shadow: 2px 5px 10px rgba(0, 600, 988, 55);
+            background-repeat: no-repeat;
+            background-size: 1200px;
+            font-family: cursive;
+        }
+.form-control {
+            text-align: left;
+            margin-bottom: 25px; font-family: cursive;
+            font-size: 20px;
+        }
+.form-control label {
+            display: block;
+            margin-bottom: 10px; font-family: cursive;
+        }
+.form-control input,
+        .form-control select,
+        .form-control textarea {
+            border: 1px solid #777;
+            border-radius: 2px;
+            font-family: inherit;
+            padding: 10px;
+            display: block;
+            width: 95%; font-family: cursive;
+        }
+ .form-control input[type="radio"],
+        .form-control input[type="checkbox"] {
+            display: inline-block;
+            width: auto; font-family: cursive;
+        }
+ button {
+            background-image:url(https://img.freepik.com/free-vector/gradient-dark-dynamic-lines-background_23-2148995950.jpg) ;
+            border: 1px solid #777;
+            border-radius: 2px;
+            font-family: inherit;
+            font-size: 21px;
+            display: block;
+            width: 100%;
+            margin-top: 50px;
+            margin-bottom: 20px;
+            color: whitesmoke;
+             font-family: cursive;
+             height: 70px;
+        }
+.jk{margin-left: -150px; font-size: 20px;}
+.s{margin-right: 400px;}
+label60{color: cyan;font-style:italic ;font-size: 50px;}
